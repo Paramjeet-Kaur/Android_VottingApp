@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">VottingApp</string>
+    <string-array name="candidates">
+        <item>Param</item>
+        <item>Joban</item>
+        <item>Mammu</item>
+        <item>Raman</item>
+        <item>Mehak</item>
+    </string-array>
 </resources>
